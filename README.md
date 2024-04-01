@@ -1,6 +1,6 @@
 # cats_application
 
-A new Flutter project.
+A Cat Flutter project.
 
 
 # download the project
