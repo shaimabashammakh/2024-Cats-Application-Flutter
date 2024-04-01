@@ -8,6 +8,11 @@ A Cat Flutter project.
 https://drive.google.com/file/d/19c7y6c-mblGsPJK2aG5-0M37iJTCVrhk/view?usp=sharing
 
 
+# to avoid errors in Flutter
+
+write in Flutter terminal the following command -> flutter pub get
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
